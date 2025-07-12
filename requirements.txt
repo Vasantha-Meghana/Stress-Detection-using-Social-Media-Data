@@ -1,0 +1,14 @@
+transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+spacy
+wordcloud
+emoji
+shap
+tqdm
+jupyter
