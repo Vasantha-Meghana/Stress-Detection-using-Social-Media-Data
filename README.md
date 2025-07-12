@@ -37,10 +37,13 @@ stress-detection-social-media/
 │   ├── Stress_Detection_RoBERTa.ipynb
 │   └── Stress_Detection_RuleBased.ipynb
 ├── data/
+│   ├── Reddit_Combi.xlsx
+│   ├── Reddit_Title.xlsx
+│   ├── Twitter_Full.xlsx
 │   └── README.md                # Dataset info and links to SenticNet repo
 ├── project documentation/
 │   ├──stress detection project documentation.pdf   # Detailed report
-    └── stress detection research paper.pdf         # Final research paper
+|   └── stress detection research paper.pdf         # Final research paper
 ├── app.py                       # Streamlit web app
 ├── requirements.txt             # All Python dependencies
 └── README.md                    # Project documentation
