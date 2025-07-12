@@ -19,11 +19,13 @@ The result is a model that accurately identifies stress indicators and emotional
 ## Tech Stack
 
   - Python 3
+  - NLTK, SpaCy
   - Scikit-learn
   - TensorFlow / PyTorch
+  - BERT, RoBERTa, DistilBERT
   - Hugging Face Transformers
-  - NLTK, SpaCy, Gensim
-  - Matplotlib / Seaborn for visualization
+  - Matplotlib, Seaborn, WordCloud for visualization
+  - Gensim for LDA topic modeling
 
 ## Repository Structure
 
@@ -99,4 +101,12 @@ pip install -r requirements.txt
 - BERT-based emotion classification significantly improved interpretability.
 - Topic modeling (LDA) uncovered key themes such as “academic pressure”, “relationship issues”, etc.
 
+## Resources & References
+
+- [Project Documentation (Drive Link)](https://drive.google.com/file/d/1sAr683le85wj-x1YyBOMvujLVwM1pRKu/view)
+- [Research Paper (Drive Link)](https://drive.google.com/file/d/1D9TtEq5rZwZ02h06A_J2xNfLBAmsYPLY/view)
+
+For more details, refer to the `project documentation` folder in this repository.  
+It contains the complete project report (`documentation.pdf`) and research paper (`stress_detection_research_paper.pdf`)  
+to help you understand the methodology, experiments, and results in depth.
 
