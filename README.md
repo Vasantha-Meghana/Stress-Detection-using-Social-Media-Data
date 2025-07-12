@@ -77,8 +77,19 @@ pip install -r requirements.txt
 These cover the full pipeline from preprocessing to evaluation, including precision, recall, F1-score, and confusion matrices.
 ---
 
-## Results Summary
+## Sample Output
 
+<p align="center">
+  <b>Prediction Result for Stress Detection</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Prediction Result for Emotion Classification</b>
+</p>
+
+<p align="center">
+  <img width="590" height="395" alt="image" src="https://github.com/user-attachments/assets/cd2c3a32-5039-4e0f-8d56-10ac6bc7f0f9" />
+  <img width="647" height="395" alt="image" src="https://github.com/user-attachments/assets/8e26a909-2be1-4c4f-965a-f22822193e8f" />
+</p>
+## Results Summary
+Performance Comparison
+<img width="672" height="219" alt="image" src="https://github.com/user-attachments/assets/6bb64528-5e58-4ad2-98c3-fcb7d1b27396" />
 - **RoBERTa** achieved the highest performance with **97.2% accuracy**.
 - Traditional ML models performed well as baselines but lacked contextual understanding.
 - BERT-based emotion classification significantly improved interpretability.
