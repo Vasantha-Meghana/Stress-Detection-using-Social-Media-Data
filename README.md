@@ -36,13 +36,14 @@ stress-detection-social-media/
 │   ├── Stress_Detection_ML_Twitter.ipynb
 │   ├── Stress_Detection_RoBERTa.ipynb
 │   └── Stress_Detection_RuleBased.ipynb
-│
 ├── data/
-│   └── README.md                        # Dataset info and links to SenticNet repo
-├── requirements.txt                     # All Python dependencies
-├── documentation.pdf                    # Detailed report
-├── stress_detection_research_paper.pdf  # Final research paper
-└── README.md                            # Project documentation
+│   └── README.md                # Dataset info and links to SenticNet repo
+├── project documentation/
+│   ├──stress detection project documentation.pdf   # Detailed report
+    └── stress detection research paper.pdf         # Final research paper
+├── app.py                       # Streamlit web app
+├── requirements.txt             # All Python dependencies
+└── README.md                    # Project documentation
 ```
 
 ## Setup Instructions
