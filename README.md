@@ -46,6 +46,7 @@ stress-detection-social-media/
 ├── stress_detection_research_paper.pdf  # Final research paper
 └── README.md                            # Project documentation
 ```
+---
 
 ## Setup Instructions
 
