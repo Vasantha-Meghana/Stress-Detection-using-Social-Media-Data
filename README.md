@@ -16,8 +16,6 @@ The system detects stress and emotional cues in social media posts through these
 
 The result is a model that accurately identifies stress indicators and emotional context from user-generated content.
 
----
-
 ## Tech Stack
 
   - Python 3
@@ -26,8 +24,6 @@ The result is a model that accurately identifies stress indicators and emotional
   - Hugging Face Transformers
   - NLTK, SpaCy, Gensim
   - Matplotlib / Seaborn for visualization
-
----
 
 ## Repository Structure
 
@@ -46,7 +42,6 @@ stress-detection-social-media/
 ├── stress_detection_research_paper.pdf  # Final research paper
 └── README.md                            # Project documentation
 ```
----
 
 ## Setup Instructions
 
@@ -75,7 +70,6 @@ pip install -r requirements.txt
 | `Stress_Detection_using_RoBERTa.ipynb` | Fine-tuning RoBERTa for contextual stress classification. |
 | `Stress_Detection_using_rule_based_sentimental_analysis_tools.ipynb` | Rule-based emotion tagging and stress labeling. |
 
----
 
 ## Sample Output
 
@@ -91,7 +85,6 @@ pip install -r requirements.txt
   <img width="647" height="395" alt="Emotion Detection Output" src="https://github.com/user-attachments/assets/8e26a909-2be1-4c4f-965a-f22822193e8f" />
 </p>
 
----
 
 ## Results Summary
 
