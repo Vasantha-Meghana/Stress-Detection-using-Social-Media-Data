@@ -45,18 +45,18 @@ stress-detection-social-media/
 
 ## Setup Instructions
 
-### Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/stress-detection-social-media.git
 cd stress-detection-social-media
 ```
-### Create virtual environment (optional)
+### 2. Create virtual environment (optional)
 ```bash
 python -m venv venv
 source venv/bin/activate  # for Linux/macOS
 venv\Scripts\activate     # for Windows
 ```
-### Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
