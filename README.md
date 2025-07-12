@@ -106,7 +106,5 @@ pip install -r requirements.txt
 - [Project Documentation (Drive Link)](https://drive.google.com/file/d/1sAr683le85wj-x1YyBOMvujLVwM1pRKu/view)
 - [Research Paper (Drive Link)](https://drive.google.com/file/d/1D9TtEq5rZwZ02h06A_J2xNfLBAmsYPLY/view)
 
-For more details, refer to the `project documentation` folder in this repository.  
-It contains the complete project report (`documentation.pdf`) and research paper (`stress_detection_research_paper.pdf`)  
-to help you understand the methodology, experiments, and results in depth.
+For more details, refer to the `project documentation` folder in this repository. It contains the complete project report (`documentation.pdf`) and research paper (`stress_detection_research_paper.pdf`) to help you understand the methodology, experiments, and results in depth.
 
