@@ -11,11 +11,10 @@ This project uses benchmark datasets adapted from the open-source repository:
    - Short text form, suitable for microblog-style classification tasks.
 
 2. **Reddit Combi Dataset**
-   - Combines Reddit post titles and full post bodies.
+   - Consists of title and body text combined together to form a single text sequence, collected from both stress and non-stress related subreddits from Reddit.
    - Offers richer context for more accurate stress detection and emotion classification.
 
-3. **Twitter Dataset (Sentiment140)**
-   - Used for rule-based and traditional ML sentiment classification baselines.
-   - Preprocessed and aligned with stress detection tasks.
+3. **Twitter Full Dataset**
+   - Consists of stress and non-stress related tweets, collected from Twitter.
 
 We gratefully acknowledge the authors of the SenticNet repository for making these resources available.
